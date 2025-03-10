@@ -69,20 +69,19 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
   <tr>
     <td align="left" width="50%">
       <a href="link-to-project">
-        <img src="https://github.com/user-attachments/assets/2534aef5-8dd3-4a51-8d48-c9c71dab87f8" width="100%" alt="Project 1"/>
         <br />
         <b>Bi-O-Teket</b>
       </a>
       <br />
      This project is a fullstack webb-application using node.js and express for backend, React and TypeScript for frontend and PostgreSQL database. Hosted on render.</td>
     <td align="left" width="50%">
-      <a href="link-to-project">
-        <img src="image-url" width="100%" alt="Project 2"/>
+      <a href="https://github.com/emmwi/Group-Project-Vue">
         <br />
-        <b>Project Name 2</b>
+        <b>Group project framework-cours</b>
       </a>
       <br />
-      Brief description of the project
+      In this project we worked as a group developing a webbapplication that was made for math-teachers so they are able to conduct simple math-test in the class.
+      The project is coded in Vue and I worked mostly on the state-management with pinia, logic for making the test and styling for header and navbar. 
     </td>
   </tr>
   <tr>
@@ -114,5 +113,4 @@ My current focus is to become better with writing efficent code, putting focus o
 - LinkedIn: https://www.linkedin.com/in/emma-with-1861a6263/
 - Email: emma.m.with@gmail.com
 
-![BioteketStartPage]()
 
