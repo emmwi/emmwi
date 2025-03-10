@@ -74,7 +74,7 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
      This project is a fullstack webb-application using node.js and express for backend, React and TypeScript for frontend and PostgreSQL database. Hosted on render.</td>
       <td><a href="https://github.com/emmwi/Bioteket-Visuals">Link to project</a></td>
      <td>
-       <img src="https://skillicons.dev/icons?i=postgres,react,ts,emotion,vite,express,nodejs" alt="framework and tools for project">
+       <img src="https://skillicons.dev/icons?i=postgres,react,ts,emotion,vite,express,nodejs,tailwind" alt="framework and tools for project">
     </td>
   </tr>
   <tr>
