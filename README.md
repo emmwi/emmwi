@@ -69,13 +69,12 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
   <tr>
     <td align="left" width="50%">
       <a href="link-to-project">
-        <img src="image-url" width="100%" alt="Project 1"/>
+        <img src="https://github.com/user-attachments/assets/2534aef5-8dd3-4a51-8d48-c9c71dab87f8" width="100%" alt="Project 1"/>
         <br />
-        <b>Project Name 1</b>
+        <b>Bi-O-Teket</b>
       </a>
       <br />
-      Brief description of the project
-    </td>
+     This project is a fullstack webb-application using node.js and express for backend, React and TypeScript for frontend and PostgreSQL database. Hosted on render.</td>
     <td align="left" width="50%">
       <a href="link-to-project">
         <img src="image-url" width="100%" alt="Project 2"/>
@@ -115,4 +114,5 @@ My current focus is to become better with writing efficent code, putting focus o
 - LinkedIn: https://www.linkedin.com/in/emma-with-1861a6263/
 - Email: emma.m.with@gmail.com
 
+![BioteketStartPage]()
 
