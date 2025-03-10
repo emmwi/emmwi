@@ -68,7 +68,7 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
 <table>
   <tr>
     <td align="left" width="50%">
-      <a href="link-to-project">
+      <a href="https://github.com/emmwi/Bioteket-Visuals">
         <br />
         <b>Bi-O-Teket</b>
       </a>
@@ -86,17 +86,15 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
   </tr>
   <tr>
     <td align="left">
-      <a href="link-to-project">
-        <img src="image-url" width="100%" alt="Project 3"/>
+      <a href="https://github.com/emmwi/Wordpress-school-project">
         <br />
-        <b>Project Name 3</b>
+        <b>Wordpress project</b>
       </a>
       <br />
-      Brief description of the project
+      This is a project where I made a theme in wordpress from exisiting design-files, using PHP and MAMP.
     </td>
     <td align="left">
       <a href="link-to-project">
-        <img src="image-url" width="100%" alt="Project 4"/>
         <br />
         <b>Project Name 4</b>
       </a>
