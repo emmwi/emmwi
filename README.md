@@ -68,14 +68,30 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
 <table>
   <tr>
     <td align="left" width="50%">
-      <a href="https://github.com/emmwi/Bioteket-Visuals">
         <br />
         <b>Bi-O-Teket</b>
-      </a>
       <br />
      This project is a fullstack webb-application using node.js and express for backend, React and TypeScript for frontend and PostgreSQL database. Hosted on render.</td>
-    <td align="left" width="50%">
-      <a href="https://github.com/emmwi/Group-Project-Vue">
+      <td><a href="https://github.com/emmwi/Bioteket-Visuals">Link to project</a></td>
+     <td>
+       <img src="https://skillicons.dev/icons?i=postgres,react,ts,emotion,vite,express,nodejs" alt="framework and tools for project">
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+             <br />
+        <b>Wordpress project</b>
+      </a>
+      <br />
+      This is a project where I made a theme in wordpress from exisiting design-files, using PHP and MAMP.
+    </td>
+     <td> <a href="https://github.com/emmwi/Wordpress-school-project">Link to project</a></td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=wordpress,php,mysql" alt="framework and tools for project">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">      
         <br />
         <b>Group project framework-cours</b>
       </a>
@@ -83,25 +99,13 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
       In this project we worked as a group developing a webbapplication that was made for math-teachers so they are able to conduct simple math-test in the class.
       The project is coded in Vue and I worked mostly on the state-management with pinia, logic for making the test and styling for header and navbar. 
     </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <a href="https://github.com/emmwi/Wordpress-school-project">
-        <br />
-        <b>Wordpress project</b>
-      </a>
-      <br />
-      This is a project where I made a theme in wordpress from exisiting design-files, using PHP and MAMP.
-    </td>
-    <td align="left">
-      <a href="link-to-project">
-        <br />
-        <b>Project Name 4</b>
-      </a>
-      <br />
-      Brief description of the project
+    <td><a href="https://github.com/emmwi/Group-Project-Vue">Link to project</a></td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=vue,js" alt="framework and tools for project">
     </td>
   </tr>
+  
+  
 </table>
 
 ## Current Focus
