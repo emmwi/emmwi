@@ -1,7 +1,7 @@
 # Hello, I'm Emma 👋
 
 ## About Me ✨
-Hello, digital world! I'm a frontend developer who crafts engaging and user-friendly web experiences. My passion lies in building creative web applications that blend aesthetics with functionality.
+Hello, digital world! I'm a developer, who with focus on frontend who crafts engaging and user-friendly web experiences. My passion lies in building creative web applications that blend aesthetics with functionality.
 
 When I'm not coding, you'll find me with knitting needles in hand, exploring color combinations and patterns. I have a soft spot for plants too - both my home and code benefit from thoughtful nurturing and growth!
 
