@@ -100,7 +100,7 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
    Is currently displayed on a tablet in the home. <br>
    Coded with Svelte and hosted on Vercel.</p>
     <img width="1000" alt="Skärmavbild 2025-06-09 kl  21 29 13" src="https://github.com/user-attachments/assets/1b01258f-0912-4261-a2ec-e2a7f4bc4c0f" />
-    <img src="https://skillicons.dev/icons?i=next,vercel,svelte,css,ts" alt="framework and tools for project">
+    <img src="https://skillicons.dev/icons?i=next,vercel,svelte,css,ts,vite" alt="framework and tools for project">
  </div> 
 <hr/>
  <div>
