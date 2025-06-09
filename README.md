@@ -17,7 +17,9 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
 
 🌱 Always growing, always learning, always creating something colorful...
 
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmwi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="300px" alt="languages graph"  />
+</div>
 
 ## Skills
 
@@ -78,53 +80,48 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
 
 
 ## Projects
-
-<table>
-  <tr>
-    <td align="left" width="50%">
-        <br />
-        <b>Bi-O-Teket</b>
-      <br />
-     This project is a fullstack webb-application using node.js and express for backend, React and TypeScript for frontend and PostgreSQL database. Hosted on render.</td>
-      <td><a href="https://github.com/emmwi/Bioteket-Visuals">Link to project</a></td>
-     <td>
-       <img src="https://skillicons.dev/icons?i=postgres,react,ts,emotion,vite,express,nodejs,tailwind" alt="framework and tools for project">
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-             <br />
-        <b>Wordpress project</b>
-      </a>
-      <br />
-      This is a project where I made a theme in wordpress from exisiting design-files, using PHP and MAMP.
-    </td>
-     <td> <a href="https://github.com/emmwi/Wordpress-school-project">Link to project</a></td>
-    <td>
-       <img src="https://skillicons.dev/icons?i=wordpress,php,mysql" alt="framework and tools for project">
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="50%">      
-        <br />
-        <b>Group project framework-cours</b>
-      </a>
-      <br />
-      In this project we worked as a group developing a webbapplication that was made for math-teachers so they are able to conduct simple math-test in the class.
-      The project is coded in Vue and I worked mostly on the state-management with pinia, logic for making the test and styling for header and navbar. 
-    </td>
-    <td><a href="https://github.com/emmwi/Group-Project-Vue">Link to project</a></td>
-    <td>
+ <div width="300px">
+   <h3>Bi-O-Teket</h3>  <a href="https://github.com/emmwi/Wordpress-school-project">Link to project</a>
+   <p >This project is a fullstack webb-application using node.js and express for backend, React and TypeScript<br /> for frontend,  
+     Emotion and Tailwind css as well as a sprinkle of css for styling and PostgreSQL database.    <br />
+     Hosted on render and continuously updated.</p>
+   <div>
+     <img width="1000" alt="Skärmavbild 2025-06-09 kl  19 50 12" src="https://github.com/user-attachments/assets/92eb2eba-54ed-4e6f-a266-b0e4ea844c82" />
+ <img src="https://skillicons.dev/icons?i=postgres,react,ts,emotion,vite,express,nodejs,tailwind" alt="framework and tools for project">
+   </div>
+ </div>
+ <div>
+   <h3> Home Dashboard </h3>
+    <a href="https://github.com/emmwi/Dashboard-Visuals/blob/main/README.md">Link to project</a>
+   
+   <img width="1000" alt="Skärmavbild 2025-06-09 kl  21 29 13" src="https://github.com/user-attachments/assets/1b01258f-0912-4261-a2ec-e2a7f4bc4c0f" />
+   <p>This is a dashboard that shows departues from a specific tram-stop. <br>
+     It's possible to see departues from both platform A and platform B. <br>
+   The dashboard does also support tranlslations for English, Swedish and French. <br>
+   Is currently displayed on a tablet in the home. <br>
+   Coded with Svelte and hosted on Vercel.</p>
+    <img src="https://skillicons.dev/icons?i=next,vercel,svelte,css,ts" alt="framework and tools for project">
+ </div> 
+<hr/>
+ <div>
+   <h3>Wordpress project</h3>
+   <a href="https://github.com/emmwi/Wordpress-school-project">Link to project</a>
+   <p>This is a project where I made a theme in wordpress from exisiting design-files, using PHP and MAMP.</p>
+   <img src="https://skillicons.dev/icons?i=wordpress,php,mysql" alt="framework and tools for project">
+ </div>
+<hr/>
+<div>
+  <h3>Group project framework-cours</h3>
+  <a href="https://github.com/emmwi/Group-Project-Vue">Link to project</a>
+  <p>In this project we worked as a group developing a webbapplication that was made for math-teachers so they are able to conduct simple math-test in the class.
+      The project is coded in Vue and I worked mostly on the state-management with pinia, logic for making the test and styling for header and navbar. </p>
        <img src="https://skillicons.dev/icons?i=vue,js" alt="framework and tools for project">
-    </td>
-  </tr>
-
-</table>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmwi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
 </div>
+
+
+
+
 
 ![Snake animation](https://github.com/emmwi/emmwi/blob/output/github-contribution-grid-snake.gif)
 
