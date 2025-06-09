@@ -81,7 +81,7 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
 
 ## Projects
  <div width="300px">
-   <h3>Bi-O-Teket</h3>  <a href="https://github.com/emmwi/Wordpress-school-project">Link to project</a>
+   <h3>Bi-O-Teket</h3>  <a href="https://github.com/emmwi/Wordpress-school-project](https://github.com/emmwi/Bioteket-Visuals/blob/main/README.md">Link to project</a>
    <p >This project is a fullstack webb-application using node.js and express for backend, React and TypeScript<br /> for frontend,  
      Emotion and Tailwind css as well as a sprinkle of css for styling and PostgreSQL database.    <br />
      Hosted on render and continuously updated.</p>
