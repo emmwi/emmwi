@@ -90,6 +90,7 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
  <img src="https://skillicons.dev/icons?i=postgres,react,ts,emotion,vite,express,nodejs,tailwind" alt="framework and tools for project">
    </div>
  </div>
+ <hr/>
  <div>
    <h3> Home Dashboard </h3>
     <a href="https://github.com/emmwi/Dashboard-Visuals/blob/main/README.md">Link to project</a>
