@@ -125,7 +125,7 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmwi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/emmwi/emmwi/output/snake.svg" alt="Snake animation" />
+
 
 
 ## Current Focus
@@ -140,10 +140,5 @@ My current focus is to become better with writing efficent code, putting focus o
 
 - Email: emma.m.with@gmail.com
 
-<img src="https://raw.githubusercontent.com/emmwi/emmwi/output/snake.svg" alt="Snake animation" />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmwi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
 
