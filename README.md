@@ -104,6 +104,14 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
  </div> 
 <hr/>
  <div>
+   <h3>Stitchy, MVP</h3>
+   <a href="https://github.com/emmwi/Stitchy">Link to project</a>
+   <p>A modern knitting companion app built with React, Capacitor, and SQLite. Keep track of your projects, parts, and rounds - all stored locally on your device.</p>
+  <img width="2048" height="945" alt="stitchylandingpage" src="https://github.com/user-attachments/assets/2e3276f0-3155-46c7-b7b1-20df44a491a3" />
+   <img src="https://skillicons.dev/icons?i=react,ts,emotion,vite,nodejs,sqlite" alt="framework and tools for project">
+ </div>
+<hr/>
+ <div>
    <h3>Wordpress project</h3>
    <a href="https://github.com/emmwi/Wordpress-school-project">Link to project</a>
    <p>This is a project where I made a theme in wordpress from exisiting design-files, using PHP and MAMP.</p>
