@@ -86,7 +86,7 @@ I enjoy venturing into new technologies and occasionally crossing into fullstack
      Emotion and Tailwind css as well as a sprinkle of css for styling and PostgreSQL database.    <br />
      Hosted on render and continuously updated.</p>
    <div>
-     <img width="1000" alt="Skärmavbild 2025-06-09 kl  19 50 12" src="https://github.com/user-attachments/assets/92eb2eba-54ed-4e6f-a266-b0e4ea844c82" />
+    <img width="1282" height="761" alt="startpage" src="https://github.com/user-attachments/assets/cf2d71e7-dbb0-4186-be05-4a30f78946af" />
  <img src="https://skillicons.dev/icons?i=postgres,react,ts,emotion,vite,express,nodejs,tailwind" alt="framework and tools for project">
    </div>
  </div>
